@@ -10,6 +10,7 @@
 .info_box {
     display: flex;
     border-right: 0.2vw solid #FF9E1B;
+    margin-right: 1vw;
 }
 
 .info_box img {
@@ -21,7 +22,6 @@
 .intro_container {
     width: 50vw;
     height: 30vw;
-    padding-left: 3vw;
     padding-right: 2vw;
 }
 
@@ -36,11 +36,11 @@
 }
 
 #info_star {
-    position: relative;
+    position: absolute;
     max-width: 8%;
     height: auto;
-    left: 95.8%;
-    top: 73%;
+    left: 94.6%;
+    top: 75%;
 }
 
 .recruit {
